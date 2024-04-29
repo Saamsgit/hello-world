@@ -1,1 +1,7 @@
+Points which i found interesting or confusing about AIML :
 
+INTERESTING :
+AI and ML can itself learn and adapt from the data, which leads to the development of systems that can understnd images , play different games , speech recognisation and translate languages at superhuman levels
+
+CONFUSING :
+Some AI models operate as "black boxes," making it challenging to understand how they arrive at their decisions, which can raise concerns about bias, ethics, and trustworthiness.
